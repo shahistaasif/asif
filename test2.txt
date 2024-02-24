@@ -1,1 +1,6 @@
 muffin
+chocolate
+ice cream
+pastriy
+food
+pizza
